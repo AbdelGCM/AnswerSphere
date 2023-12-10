@@ -17,99 +17,99 @@ build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Answersphere
 build_property.RootNamespace = Answersphere
-build_property.ProjectDir = C:\Users\abdel\Projets\answersphere\Answersphere\
+build_property.ProjectDir = c:\Users\abdel\Projets\answersphere\Answersphere\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 8.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\abdel\Projets\answersphere\Answersphere
+build_property.MSBuildProjectDirectory = c:\Users\abdel\Projets\answersphere\Answersphere
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/abdel/Projets/answersphere/Answersphere/Views/Home/Index.cshtml]
+[c:/Users/abdel/Projets/answersphere/Answersphere/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/abdel/Projets/answersphere/Answersphere/Views/Home/Privacy.cshtml]
+[c:/Users/abdel/Projets/answersphere/Answersphere/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/abdel/Projets/answersphere/Answersphere/Views/Option/Create.cshtml]
+[c:/Users/abdel/Projets/answersphere/Answersphere/Views/Option/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3B0aW9uXENyZWF0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/abdel/Projets/answersphere/Answersphere/Views/Option/Delete.cshtml]
+[c:/Users/abdel/Projets/answersphere/Answersphere/Views/Option/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3B0aW9uXERlbGV0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/abdel/Projets/answersphere/Answersphere/Views/Option/Details.cshtml]
+[c:/Users/abdel/Projets/answersphere/Answersphere/Views/Option/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3B0aW9uXERldGFpbHMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/abdel/Projets/answersphere/Answersphere/Views/Option/Edit.cshtml]
+[c:/Users/abdel/Projets/answersphere/Answersphere/Views/Option/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3B0aW9uXEVkaXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/abdel/Projets/answersphere/Answersphere/Views/Option/Index.cshtml]
+[c:/Users/abdel/Projets/answersphere/Answersphere/Views/Option/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3B0aW9uXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/abdel/Projets/answersphere/Answersphere/Views/Question/Create.cshtml]
+[c:/Users/abdel/Projets/answersphere/Answersphere/Views/Question/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUXVlc3Rpb25cQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/abdel/Projets/answersphere/Answersphere/Views/Question/Delete.cshtml]
+[c:/Users/abdel/Projets/answersphere/Answersphere/Views/Question/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUXVlc3Rpb25cRGVsZXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/abdel/Projets/answersphere/Answersphere/Views/Question/Details.cshtml]
+[c:/Users/abdel/Projets/answersphere/Answersphere/Views/Question/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUXVlc3Rpb25cRGV0YWlscy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/abdel/Projets/answersphere/Answersphere/Views/Question/Edit.cshtml]
+[c:/Users/abdel/Projets/answersphere/Answersphere/Views/Question/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUXVlc3Rpb25cRWRpdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/abdel/Projets/answersphere/Answersphere/Views/Question/Index.cshtml]
+[c:/Users/abdel/Projets/answersphere/Answersphere/Views/Question/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUXVlc3Rpb25cSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/abdel/Projets/answersphere/Answersphere/Views/Reponse/Create.cshtml]
+[c:/Users/abdel/Projets/answersphere/Answersphere/Views/Reponse/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVwb25zZVxDcmVhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/abdel/Projets/answersphere/Answersphere/Views/Reponse/Delete.cshtml]
+[c:/Users/abdel/Projets/answersphere/Answersphere/Views/Reponse/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVwb25zZVxEZWxldGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/abdel/Projets/answersphere/Answersphere/Views/Reponse/Details.cshtml]
+[c:/Users/abdel/Projets/answersphere/Answersphere/Views/Reponse/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVwb25zZVxEZXRhaWxzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/abdel/Projets/answersphere/Answersphere/Views/Reponse/Edit.cshtml]
+[c:/Users/abdel/Projets/answersphere/Answersphere/Views/Reponse/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVwb25zZVxFZGl0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/abdel/Projets/answersphere/Answersphere/Views/Reponse/Index.cshtml]
+[c:/Users/abdel/Projets/answersphere/Answersphere/Views/Reponse/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVwb25zZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/abdel/Projets/answersphere/Answersphere/Views/Shared/Error.cshtml]
+[c:/Users/abdel/Projets/answersphere/Answersphere/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/abdel/Projets/answersphere/Answersphere/Views/Shared/_ValidationScriptsPartial.cshtml]
+[c:/Users/abdel/Projets/answersphere/Answersphere/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/abdel/Projets/answersphere/Answersphere/Views/_ViewImports.cshtml]
+[c:/Users/abdel/Projets/answersphere/Answersphere/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/abdel/Projets/answersphere/Answersphere/Views/_ViewStart.cshtml]
+[c:/Users/abdel/Projets/answersphere/Answersphere/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/abdel/Projets/answersphere/Answersphere/Views/Shared/_Layout.cshtml]
+[c:/Users/abdel/Projets/answersphere/Answersphere/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-u9nt79rerm

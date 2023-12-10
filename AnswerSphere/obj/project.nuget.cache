@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "pJ3nIJ94p23OO9OPSwiYc2ZWyRCX1FTusQmbeCPVB88lKIBedLEUvnuMYdIgP5s1PYjMlMeKvJUPIyrFZExPgg==",
+  "dgSpecHash": "kYG/2B5rLgR2fGPw8/m6Jjpc19q63+CnwcFCTssHBIaIQlB86/CKP7yuOJ5JZNaJ6fE7y9InFgDE+Fu79Qm9mw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\abdel\\Projets\\answersphere\\Answersphere\\Answersphere.csproj",
+  "projectFilePath": "c:\\Users\\abdel\\Projets\\answersphere\\Answersphere\\Answersphere.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\abdel\\.nuget\\packages\\azure.core\\1.25.0\\azure.core.1.25.0.nupkg.sha512",
     "C:\\Users\\abdel\\.nuget\\packages\\azure.identity\\1.7.0\\azure.identity.1.7.0.nupkg.sha512",
