@@ -6,15 +6,15 @@ using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.Rendering;
 using Microsoft.EntityFrameworkCore;
 using AnswerSphere.Data;
-using AnswerSphere.Models;
+using Answersphere.Models;
 
-namespace AnswerSphere.Controllers
+namespace Answersphere.Controllers
 {
     public class QuestionController : Controller
     {
-        private readonly QuestionContext _context;
+        private readonly AnswerSphereContext _context;
 
-        public QuestionController(QuestionContext context)
+        public QuestionController(AnswerSphereContext context)
         {
             _context = context;
         }

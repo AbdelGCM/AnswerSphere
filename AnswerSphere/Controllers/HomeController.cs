@@ -1,8 +1,8 @@
 using System.Diagnostics;
 using Microsoft.AspNetCore.Mvc;
-using AnswerSphere.Models;
+using Answersphere.Models;
 
-namespace AnswerSphere.Controllers;
+namespace Answersphere.Controllers;
 
 public class HomeController : Controller
 {

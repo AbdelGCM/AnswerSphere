@@ -2,12 +2,8 @@ using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.DependencyInjection;
 using AnswerSphere.Data;
 var builder = WebApplication.CreateBuilder(args);
-builder.Services.AddDbContext<ReponseContext>(options =>
-    options.UseSqlite(builder.Configuration.GetConnectionString("ReponseContext") ?? throw new InvalidOperationException("Connection string 'ReponseContext' not found.")));
-builder.Services.AddDbContext<OptionContext>(options =>
-    options.UseSqlite(builder.Configuration.GetConnectionString("OptionContext") ?? throw new InvalidOperationException("Connection string 'OptionContext' not found.")));
-builder.Services.AddDbContext<QuestionContext>(options =>
-    options.UseSqlite(builder.Configuration.GetConnectionString("QuestionContext") ?? throw new InvalidOperationException("Connection string 'QuestionContext' not found.")));
+builder.Services.AddDbContext<AnswerSphereContext>(options =>
+    options.UseSqlite(builder.Configuration.GetConnectionString("AnswerSphereContext") ?? throw new InvalidOperationException("Connection string 'AnswerSphereContext' not found.")));
 
 // Add services to the container.
 builder.Services.AddControllersWithViews();

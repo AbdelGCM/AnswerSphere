@@ -6,7 +6,7 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v8.0": {
-      "AnswerSphere/1.0.0": {
+      "Answersphere/1.0.0": {
         "dependencies": {
           "Microsoft.EntityFrameworkCore.Design": "8.0.0",
           "Microsoft.EntityFrameworkCore.Sqlite": "8.0.0",
@@ -15,7 +15,7 @@
           "Microsoft.VisualStudio.Web.CodeGeneration.Design": "8.0.0"
         },
         "runtime": {
-          "AnswerSphere.dll": {}
+          "Answersphere.dll": {}
         }
       },
       "Azure.Core/1.25.0": {
@@ -2031,7 +2031,7 @@
     }
   },
   "libraries": {
-    "AnswerSphere/1.0.0": {
+    "Answersphere/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

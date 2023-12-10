@@ -6,15 +6,15 @@ using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.Rendering;
 using Microsoft.EntityFrameworkCore;
 using AnswerSphere.Data;
-using AnswerSphere.Models;
+using Answersphere.Models;
 
-namespace AnswerSphere.Controllers
+namespace Answersphere.Controllers
 {
     public class ReponseController : Controller
     {
-        private readonly ReponseContext _context;
+        private readonly AnswerSphereContext _context;
 
-        public ReponseController(ReponseContext context)
+        public ReponseController(AnswerSphereContext context)
         {
             _context = context;
         }
@@ -22,8 +22,8 @@ namespace AnswerSphere.Controllers
         // GET: Reponse
         public async Task<IActionResult> Index()
         {
-            var reponseContext = _context.Reponse.Include(r => r.Option);
-            return View(await reponseContext.ToListAsync());
+            var answerSphereContext = _context.Reponse.Include(r => r.Option);
+            return View(await answerSphereContext.ToListAsync());
         }
 
         // GET: Reponse/Details/5

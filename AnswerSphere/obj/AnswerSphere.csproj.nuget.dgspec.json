@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\abdel\\Projets\\AnswerSphere\\AnswerSphere\\AnswerSphere.csproj": {}
+    "C:\\Users\\abdel\\Projets\\answersphere\\Answersphere\\Answersphere.csproj": {}
   },
   "projects": {
-    "c:\\Users\\abdel\\Projets\\AnswerSphere\\AnswerSphere\\AnswerSphere.csproj": {
+    "C:\\Users\\abdel\\Projets\\answersphere\\Answersphere\\Answersphere.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\abdel\\Projets\\AnswerSphere\\AnswerSphere\\AnswerSphere.csproj",
-        "projectName": "AnswerSphere",
-        "projectPath": "c:\\Users\\abdel\\Projets\\AnswerSphere\\AnswerSphere\\AnswerSphere.csproj",
+        "projectUniqueName": "C:\\Users\\abdel\\Projets\\answersphere\\Answersphere\\Answersphere.csproj",
+        "projectName": "Answersphere",
+        "projectPath": "C:\\Users\\abdel\\Projets\\answersphere\\Answersphere\\Answersphere.csproj",
         "packagesPath": "C:\\Users\\abdel\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\abdel\\Projets\\AnswerSphere\\AnswerSphere\\obj\\",
+        "outputPath": "C:\\Users\\abdel\\Projets\\answersphere\\Answersphere\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\abdel\\AppData\\Roaming\\NuGet\\NuGet.Config",

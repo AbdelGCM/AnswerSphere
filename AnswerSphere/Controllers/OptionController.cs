@@ -6,15 +6,15 @@ using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.Rendering;
 using Microsoft.EntityFrameworkCore;
 using AnswerSphere.Data;
-using AnswerSphere.Models;
+using Answersphere.Models;
 
-namespace AnswerSphere.Controllers
+namespace Answersphere.Controllers
 {
     public class OptionController : Controller
     {
-        private readonly OptionContext _context;
+        private readonly AnswerSphereContext _context;
 
-        public OptionController(OptionContext context)
+        public OptionController(AnswerSphereContext context)
         {
             _context = context;
         }
@@ -22,8 +22,8 @@ namespace AnswerSphere.Controllers
         // GET: Option
         public async Task<IActionResult> Index()
         {
-            var optionContext = _context.Option.Include(o => o.Question);
-            return View(await optionContext.ToListAsync());
+            var answerSphereContext = _context.Option.Include(o => o.Question);
+            return View(await answerSphereContext.ToListAsync());
         }
 
         // GET: Option/Details/5
@@ -48,7 +48,7 @@ namespace AnswerSphere.Controllers
         // GET: Option/Create
         public IActionResult Create()
         {
-            ViewData["QuestionId"] = new SelectList(_context.Set<Question>(), "QuestionId", "QuestionId");
+            ViewData["QuestionId"] = new SelectList(_context.Question, "QuestionId", "QuestionId");
             return View();
         }
 
@@ -65,7 +65,7 @@ namespace AnswerSphere.Controllers
                 await _context.SaveChangesAsync();
                 return RedirectToAction(nameof(Index));
             }
-            ViewData["QuestionId"] = new SelectList(_context.Set<Question>(), "QuestionId", "QuestionId", option.QuestionId);
+            ViewData["QuestionId"] = new SelectList(_context.Question, "QuestionId", "QuestionId", option.QuestionId);
             return View(option);
         }
 
@@ -82,7 +82,7 @@ namespace AnswerSphere.Controllers
             {
                 return NotFound();
             }
-            ViewData["QuestionId"] = new SelectList(_context.Set<Question>(), "QuestionId", "QuestionId", option.QuestionId);
+            ViewData["QuestionId"] = new SelectList(_context.Question, "QuestionId", "QuestionId", option.QuestionId);
             return View(option);
         }
 
@@ -118,7 +118,7 @@ namespace AnswerSphere.Controllers
                 }
                 return RedirectToAction(nameof(Index));
             }
-            ViewData["QuestionId"] = new SelectList(_context.Set<Question>(), "QuestionId", "QuestionId", option.QuestionId);
+            ViewData["QuestionId"] = new SelectList(_context.Question, "QuestionId", "QuestionId", option.QuestionId);
             return View(option);
         }
 

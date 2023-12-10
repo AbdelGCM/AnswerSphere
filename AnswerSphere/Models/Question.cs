@@ -1,5 +1,4 @@
-
-namespace AnswerSphere.Models;
+namespace Answersphere.Models;
 public class Question
 {
     public int QuestionId { get; set; }
