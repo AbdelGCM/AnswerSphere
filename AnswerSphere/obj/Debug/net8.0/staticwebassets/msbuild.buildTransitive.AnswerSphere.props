@@ -1,3 +1,3 @@
 ﻿<Project>
-  <Import Project="..\buildMultiTargeting\Answersphere.props" />
+  <Import Project="..\buildMultiTargeting\AnswerSphere.props" />
 </Project>

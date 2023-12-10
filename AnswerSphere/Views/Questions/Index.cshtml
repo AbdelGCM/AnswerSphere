@@ -1,0 +1,26 @@
+@model IEnumerable<AnswerSphere.Models.Question>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Index</h1>
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.QuestionLibelle)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody id="questions">
+    </tbody>
+</table>
+@section Scripts{
+<script src="~/js/signalr/dist/browser/signalr.js"></script>
+<script src="~/js/IndexQuestions.js"></script> }

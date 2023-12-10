@@ -1,4 +1,4 @@
-namespace Answersphere.Models;
+namespace AnswerSphere.Models;
 
 public class ErrorViewModel
 {

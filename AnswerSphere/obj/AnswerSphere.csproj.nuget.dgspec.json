@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\abdel\\Projets\\answersphere\\Answersphere\\Answersphere.csproj": {}
+    "d:\\AnswerSphere\\AnswerSphere.csproj": {}
   },
   "projects": {
-    "c:\\Users\\abdel\\Projets\\answersphere\\Answersphere\\Answersphere.csproj": {
+    "d:\\AnswerSphere\\AnswerSphere.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\abdel\\Projets\\answersphere\\Answersphere\\Answersphere.csproj",
-        "projectName": "Answersphere",
-        "projectPath": "c:\\Users\\abdel\\Projets\\answersphere\\Answersphere\\Answersphere.csproj",
-        "packagesPath": "C:\\Users\\abdel\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\abdel\\Projets\\answersphere\\Answersphere\\obj\\",
+        "projectUniqueName": "d:\\AnswerSphere\\AnswerSphere.csproj",
+        "projectName": "AnswerSphere",
+        "projectPath": "d:\\AnswerSphere\\AnswerSphere.csproj",
+        "packagesPath": "C:\\Users\\MCS\\.nuget\\packages\\",
+        "outputPath": "d:\\AnswerSphere\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\abdel\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\MCS\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -40,17 +40,29 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "dependencies": {
+            "Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "Microsoft.AspNetCore.Identity.UI": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
             "Microsoft.EntityFrameworkCore.Design": {
               "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
               "suppressParent": "All",
               "target": "Package",
               "version": "[8.0.0, )"
             },
-            "Microsoft.EntityFrameworkCore.SQLite": {
+            "Microsoft.EntityFrameworkCore.SqlServer": {
               "target": "Package",
               "version": "[8.0.0, )"
             },
-            "Microsoft.EntityFrameworkCore.SqlServer": {
+            "Microsoft.EntityFrameworkCore.Sqlite": {
               "target": "Package",
               "version": "[8.0.0, )"
             },
