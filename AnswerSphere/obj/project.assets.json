@@ -8458,19 +8458,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\MCS\\.nuget\\packages\\": {}
+    "C:\\Users\\abdel\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\AnswerSphere\\AnswerSphere.csproj",
+      "projectUniqueName": "C:\\Users\\abdel\\Projets\\answersphere\\Answersphere\\AnswerSphere.csproj",
       "projectName": "AnswerSphere",
-      "projectPath": "D:\\AnswerSphere\\AnswerSphere.csproj",
-      "packagesPath": "C:\\Users\\MCS\\.nuget\\packages\\",
-      "outputPath": "D:\\AnswerSphere\\obj\\",
+      "projectPath": "C:\\Users\\abdel\\Projets\\answersphere\\Answersphere\\AnswerSphere.csproj",
+      "packagesPath": "C:\\Users\\abdel\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\abdel\\Projets\\answersphere\\Answersphere\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\MCS\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\abdel\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
