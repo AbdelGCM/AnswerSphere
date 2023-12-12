@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AnswerSphere")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a39562c0b1f0d30050fe6b6d5b1b21ddb10cf0e6")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+871ba665475c973ccb219637671a89a3da0fe6da")]
 [assembly: System.Reflection.AssemblyProductAttribute("AnswerSphere")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AnswerSphere")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
